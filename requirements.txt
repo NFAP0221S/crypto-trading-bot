@@ -1,0 +1,10 @@
+pandas
+numpy
+pandas_ta
+TA-Lib
+requests
+selenium
+beautifulsoup4
+GPT-4 Vision API (if available for chart analysis)
+streamlit  # Optional, for monitoring UI
+SQLAlchemy
