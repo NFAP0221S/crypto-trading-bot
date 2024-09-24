@@ -1,0 +1,14 @@
+pandas
+pandas_ta
+numpy
+requests
+openai
+pyupbit
+python-dotenv
+schedule
+sqlite3
+selenium
+webdriver-manager
+beautifulsoup4
+lxml
+python-telegram-bot
